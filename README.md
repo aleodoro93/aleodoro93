@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 Hoje estou trabalhando com front-end.<br>- 🌱 Estou estudando mais de Javascript e em breve me aprofundarei em back-end....<br>- 😄 Pronomes: Ele/Dele.</p>
+<p align="left">- 🔭.<br>- 🌱 Estou estudando mais de Javascript e em breve me aprofundarei em back-end....<br>- 😄 Pronomes: Ele/Dele.</p>
 
 ###
 
